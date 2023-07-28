@@ -9,8 +9,6 @@ The `MinesweeperLPSolver` class is responsible for computing a set of points to 
 Finally, `Game` handles the communication between the two and incorporates the main loop of the game, including user controls.
 
 University of Chicago
-CMSC 27200, Theory of Algorithms
-Spring 2023
 Konstantinos Ameranis
 """
 
